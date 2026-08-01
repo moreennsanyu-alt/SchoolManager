@@ -20,10 +20,10 @@ nuget System.Text.Json == 9.0.18
 nuget System.Security.Cryptography.Pkcs == 9.0.18
 nuget System.Security.Cryptography.Xml == 9.0.18
 nuget System.Security.Cryptography.ProtectedData == 9.0.18
-nuget System.ServiceModel.NetTcp 8.1
-nuget System.ServiceModel.Security 4.10.2
-nuget System.ServiceModel.Http 8.1
-nuget System.ServiceModel.Duplex 4.10.2
+nuget System.ServiceModel.NetTcp 8.1.2
+nuget System.ServiceModel.Security 6.0.0
+nuget System.ServiceModel.Http 8.1.2
+nuget System.ServiceModel.Duplex 6.0.0
 nuget System.Configuration.ConfigurationManager == 9.0.18
 nuget System.Drawing.Common == 9.0.18
 
