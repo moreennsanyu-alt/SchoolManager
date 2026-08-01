@@ -35,7 +35,7 @@ jobs:
           dotnet paket update
 
       - name: Create Pull Request with updated dependencies
-        uses: peter-evans/create-pull-request@v4
+        uses: peter-evans/create-pull-request@v8
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           commit-message: "chore(deps): update paket dependencies"
